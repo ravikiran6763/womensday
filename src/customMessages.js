@@ -15,7 +15,7 @@ export const customMessages = {
   },
   vidya: {
     messages: [
-      "You are creative, confident, and full of positivity. Your cheerful nature and supportive attitude bring happiness and inspiration to the people around you."
+      "You are kind, caring, and emotionally strong. Your gentle nature and ability to bring peace and harmony make relationships beautiful and meaningful."
     ],
     image: "/avatars/vidya.jpeg"
     },
